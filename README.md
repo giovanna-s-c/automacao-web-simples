@@ -1,2 +1,2 @@
 # automacao-web-simples
-Primeira automação realizada em Python
+Primeira automação realizada em Python e Selenium
